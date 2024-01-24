@@ -1,0 +1,36 @@
+.nav-container {
+  height: 20vh;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.head-container {
+  display: flex;
+  justify-content: space-between;
+}
+.image {
+  height: 20px;
+  width: 50px;
+  padding-left: 30px;
+}
+
+.nav-link {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  padding-right: 8px;
+}
+
+.log-out-desktop-button {
+  color: #ffffff;
+  height: 25px;
+  width: 70px;
+  background-color: blue;
+  border-radius: 5px;
+  outline: none;
+}
+
+.logout-logo {
+  height: 25px;
+  width: 30px;
+}
